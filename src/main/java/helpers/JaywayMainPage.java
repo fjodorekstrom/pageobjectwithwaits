@@ -62,7 +62,7 @@ public class JaywayMainPage {
     public void waitForElementPresent(final By locator, int timeout) {
         ExpectedCondition e = new ExpectedCondition<Boolean>() {
             public Boolean apply(WebDriver driver) {
-                //Wait until text changes
+
                 return driver.findElements(locator).size() > 0;
             }
         };

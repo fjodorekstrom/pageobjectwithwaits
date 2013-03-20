@@ -79,11 +79,11 @@
       <file leaf-file-name="JaywayMainPage.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/helpers/JaywayMainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="14" selection-start="678" selection-end="678" vertical-scroll-proportion="0.5156951">
+            <state line="64" column="0" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.6950673">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1565#1782#0" expanded="true" />
-                <element signature="e#1771#1772#0" expanded="true" />
+                <element signature="e#1565#1741#0" expanded="true" />
+                <element signature="e#1730#1731#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,7 +93,10 @@
         <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.31.0/selenium-support-2.31.0-sources.jar!/org/openqa/selenium/support/FindBy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="49" column="19" selection-start="1830" selection-end="1841" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <element signature="e#0#2189#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,7 +105,9 @@
         <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/lang/annotation/ElementType.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="38" column="12" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <element signature="e#0#1075#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,7 +138,10 @@
         <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.31.0/selenium-support-2.31.0-sources.jar!/org/openqa/selenium/support/PageFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="64" column="22" selection-start="2610" selection-end="2610" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <element signature="e#0#5473#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,10 +160,10 @@
         <option value="$PROJECT_DIR$/src/test/java/GoogleSearchPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/UrlConfig.java" />
         <option value="$PROJECT_DIR$/src/test/resources/spring/test-context.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/helpers/JaywayMainPage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/WhenAUserSearchesOnGoogle.java" />
         <option value="$PROJECT_DIR$/src/test/java/JaywayMainPageTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/helpers/JaywayMainPage.java" />
       </list>
     </option>
   </component>
@@ -725,7 +733,10 @@
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.31.0/selenium-support-2.31.0-sources.jar!/org/openqa/selenium/support/PageFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="22" selection-start="2610" selection-end="2610" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="e#0#5473#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -741,14 +752,19 @@
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.31.0/selenium-support-2.31.0-sources.jar!/org/openqa/selenium/support/FindBy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="19" selection-start="1830" selection-end="1841" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="e#0#2189#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/lang/annotation/ElementType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="12" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="e#0#1075#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -770,11 +786,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/helpers/JaywayMainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="14" selection-start="678" selection-end="678" vertical-scroll-proportion="0.5156951">
+        <state line="64" column="0" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.6950673">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1565#1782#0" expanded="true" />
-            <element signature="e#1771#1772#0" expanded="true" />
+            <element signature="e#1565#1741#0" expanded="true" />
+            <element signature="e#1730#1731#0" expanded="true" />
           </folding>
         </state>
       </provider>
