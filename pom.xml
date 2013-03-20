@@ -15,9 +15,9 @@
     <profiles>
         <!-- Testclass targeting profiles -->
         <profile>
-            <id>googletests</id>
+            <id>jaywaytests</id>
             <properties>
-                <tests.wildcard>**/*Google*.java</tests.wildcard>
+                <tests.wildcard>**/Jayway*.java</tests.wildcard>
             </properties>
         </profile>
     </profiles>

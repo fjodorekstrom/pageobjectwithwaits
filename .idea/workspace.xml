@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/GoogleSearchPage.java" changelist="c6ebcac6-78c3-479a-8c3e-43dab5ea73ba" time="1363764895257" ignored="false" />
     <file path="/WhenAUserSearchesOnGoogle.java" changelist="c6ebcac6-78c3-479a-8c3e-43dab5ea73ba" time="1363770483797" ignored="false" />
-    <file path="/pom.xml" changelist="c6ebcac6-78c3-479a-8c3e-43dab5ea73ba" time="1363765115910" ignored="false" />
+    <file path="/pom.xml" changelist="c6ebcac6-78c3-479a-8c3e-43dab5ea73ba" time="1363773855185" ignored="false" />
     <file path="/fragment.java" changelist="c6ebcac6-78c3-479a-8c3e-43dab5ea73ba" time="1363766716859" ignored="false" />
     <file path="/JaywayMainPage.java" changelist="c6ebcac6-78c3-479a-8c3e-43dab5ea73ba" time="1363770281293" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,19 +67,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="16" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0">
+            <state line="19" column="44" selection-start="707" selection-end="707" vertical-scroll-proportion="0.42600897">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JaywayMainPage.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="JaywayMainPage.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/helpers/JaywayMainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="0" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.6950673">
+            <state line="64" column="0" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1565#1741#0" expanded="true" />
@@ -160,10 +160,10 @@
         <option value="$PROJECT_DIR$/src/test/java/GoogleSearchPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/UrlConfig.java" />
         <option value="$PROJECT_DIR$/src/test/resources/spring/test-context.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/WhenAUserSearchesOnGoogle.java" />
         <option value="$PROJECT_DIR$/src/test/java/JaywayMainPageTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/helpers/JaywayMainPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -172,11 +172,6 @@
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
-    </option>
-    <option name="enabledProfiles">
-      <list>
-        <option value="googletests" />
-      </list>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -768,10 +763,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/helpers/JaywayMainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="16" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="64" column="0" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1565#1741#0" expanded="true" />
+            <element signature="e#1730#1731#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -784,14 +783,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/helpers/JaywayMainPage.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.6950673">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1565#1741#0" expanded="true" />
-            <element signature="e#1730#1731#0" expanded="true" />
-          </folding>
+        <state line="19" column="44" selection-start="707" selection-end="707" vertical-scroll-proportion="0.42600897">
+          <folding />
         </state>
       </provider>
     </entry>
